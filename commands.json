@@ -2,7 +2,7 @@
   "actions": [
     {
       "type": "powershell",
-      "payload": "Start-Process notepad.exe"
+      "payload": ""
     },
     {
       "type": "update",
